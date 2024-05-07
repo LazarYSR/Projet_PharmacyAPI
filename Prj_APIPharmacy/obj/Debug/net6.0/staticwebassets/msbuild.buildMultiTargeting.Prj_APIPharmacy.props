@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Prj_APIPharmacy.props" />
+</Project>
